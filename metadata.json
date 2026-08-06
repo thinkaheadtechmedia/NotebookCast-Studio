@@ -1,0 +1,6 @@
+{
+  "name": "NotebookCast Studio",
+  "description": "AI Podcast & Video Production Studio inspired by NotebookLM, featuring AI script generation, multi-speaker voice synthesis, dynamic video slideshows, and interactive audio overviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
